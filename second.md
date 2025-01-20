@@ -1,1 +1,1 @@
-This is the second md file. Amended in main branch.
+This is the second md file. Amended in the bugfix branch.
